@@ -1,6 +1,6 @@
 # Belly Button Challenge
 
-<img width="1440" alt="Screenshot 2023-03-26 at 1.13.41 PM.png" src="https://user-images.githubusercontent.com/112406455/211830221-402ccbc8-c54d-4ed5-aede-62222434b299.png](https://raw.githubusercontent.com/adampaganini/Belly-Button-Challenge/main/Screenshot%202023-03-26%20at%201.13.41%20PM.png">
+<img width="1440" alt="Screenshot 2023-03-26 at 1.13.41 PM.png" src="https://raw.githubusercontent.com/adampaganini/Belly-Button-Challenge/main/Screenshot%202023-03-26%20at%201.13.41%20PM.png">
 
 ## Deployment
 * Here is a link to the dashboard: https://jeremytallant.github.io/belly-button-challenge/
