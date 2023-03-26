@@ -3,7 +3,7 @@
 <img width="1440" alt="Screenshot 2023-03-26 at 1.13.41 PM.png" src="https://raw.githubusercontent.com/adampaganini/Belly-Button-Challenge/main/Screenshot%202023-03-26%20at%201.13.41%20PM.png">
 
 ## Deployment
-* Here is a link to the dashboard: https://jeremytallant.github.io/belly-button-challenge/
+* Here is a link to the dashboard: https://adampaganini.github.io/Belly-Button-Challenge/
 
 ## Background
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
