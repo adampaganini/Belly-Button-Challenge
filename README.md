@@ -31,7 +31,7 @@ The dataset reveals that a small handful of microbial species (also called opera
  * You will need to modify the example gauge code to account for values ranging from 0 through 9.
  * Update the chart whenever a new sample is selected.
  
- <img width="321" alt="Screenshot 2023-01-10 at 11 19 42 AM" src="https://user-images.githubusercontent.com/112406455/211619467-9e89e61a-2016-4a84-a380-fc542e2ba08f.png">
+ <img width="321" alt="Screenshot 2023-01-10 at 11 19 42 AM" src="https://raw.githubusercontent.com/adampaganini/Belly-Button-Challenge/main/Screenshot%202023-03-29%20at%201.05.14%20PM.png">
  
 ## File Organization and Structure
 * Located in the parent directory are three folders and the [index.html](https://github.com/tallantj95/belly-button-challenge/blob/main/index.html) file.
