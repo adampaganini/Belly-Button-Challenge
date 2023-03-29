@@ -18,7 +18,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
  3. A bubble chart was created to display each sample.
 
- 4. The sample metadata, i.e., an individual's demographic information is shown in the dialog box.
+ 4. The sample metadata, i.e., an individual's demographic information is shown in the 'Demographic Info' box.
 
  5. Each key-value pair from the metadata JSON object is also displayed on the page.
 
