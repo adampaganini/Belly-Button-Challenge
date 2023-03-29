@@ -33,11 +33,6 @@ The dataset reveals that a small handful of microbial species (also called opera
  
  <img width="321" alt="Screenshot 2023-01-10 at 11 19 42 AM" src="https://raw.githubusercontent.com/adampaganini/Belly-Button-Challenge/main/Screenshot%202023-03-29%20at%201.05.14%20PM.png">
  
-## File Organization and Structure
-* Located in the parent directory are three folders and the [index.html](https://github.com/tallantj95/belly-button-challenge/blob/main/index.html) file.
-* The [Resources](https://github.com/tallantj95/belly-button-challenge/tree/main/Resources) folder contains the [samples.json](https://github.com/tallantj95/belly-button-challenge/blob/main/Resources/samples.json) file as a reference.
-* The [assets](https://github.com/tallantj95/belly-button-challenge/tree/main/assets) folder contains a [css](https://github.com/tallantj95/belly-button-challenge/tree/main/assets/css) folder which houses the [styles.css](https://github.com/tallantj95/belly-button-challenge/blob/main/assets/css/styles.css) file used for customization of the dashboard.
-* The [static](https://github.com/tallantj95/belly-button-challenge/tree/main/static/js) folder contains the two javascript files [app.js](https://github.com/tallantj95/belly-button-challenge/blob/main/static/js/app.js) and [bonus.js](https://github.com/tallantj95/belly-button-challenge/blob/main/static/js/bonus.js) that were used to build the dashboard.
 
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
